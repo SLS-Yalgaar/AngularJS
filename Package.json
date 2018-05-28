@@ -1,0 +1,20 @@
+{
+  "name": "AngularJS SDK",
+  "version": "1.0.0",
+  "author": "Yalgaar",
+  "description": "Real-time publish and Subscribe Messages with Yalgaar",
+  "main": "./lib/yalgaar_angular.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SLS-Yalgaar/AngularJS"
+  },
+  "keywords": [
+    "cloud",
+    "publish",
+    "subscribe",
+    "websockets",
+    "real-time",
+    "messaging"
+  ],
+  "license": "MIT",
+}
